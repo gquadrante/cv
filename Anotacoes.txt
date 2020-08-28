@@ -1,0 +1,5 @@
+devdocs.io
+http://web.archive.org/
+docs.emmet.io/cheat-sheet/   -- Verificar as funcionalidades do emmet instalado no editor de texto
+unicode-table.com -- emojis
+Site para cortar imagem e deixar arredondada - crop-circle.imageonline.co
